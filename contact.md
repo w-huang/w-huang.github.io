@@ -1,0 +1,9 @@
+---
+layout: default
+title: Contact Long Haul
+---
+
+<div id="contact">
+  <h1 class="pageTitle">Contact Me</h1>
+    <p class="intro">At the moment, I'm still setting up a proper form like other blogs. Knowing me, it might not be up for a long time. In the meanwhile, if you have any questions, comments, or simply want to say hi, feel free to <a href="mailto:wilsonhuang995@gmail.com">email me</a></p>
+</div>

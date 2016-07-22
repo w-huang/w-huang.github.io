@@ -1,0 +1,12 @@
+---
+layout: default
+title: About This Blog
+---
+
+<div class="post">
+	<h1 class="pageTitle">About This Blog</h1>
+	<p class="intro">
+
+    A place where I'll write down some thoughts I have or things I do; read along if you'd like.
+  </p>
+</div>
