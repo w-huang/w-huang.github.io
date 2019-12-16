@@ -1,40 +1,26 @@
 ---
 layout: post
-title:  "TEST FOR JEKYLL"
-date:   2019-09-08
+title:  "3 years later"
+date:   2019-12-16
 ---
 
-In the last post, I found that explicitly writing out the consequences of achieving a goal (and particularly what sacrifices you must make) helps tremendously prepare you for taking action. In a sense, you envision yourself before, during, and after the process, so that:
+To start off with, let me first say I am very excited for starting this blog up again. It's been 3 years overdue and I think I'm in a good spot mentally to be doing this kind of thing again. It won't be with the same kind of self jack-off righteousness and make-myself-sound-so-driven garbage I was writing before. I hope. 
 
-a) Nothing takes you by surprise (during the process)
-b) Your eyes stay focused on the goal (the end of the process)
+To begin things off, I'll leave a note to my future self:
 
-So, I'm going to do that again for another set of goals I hope to accomplish by Christmas. 
+1) Figure out how to package this stupid blog into a docker container or something so that if I ever need to set this up again, then I won't have to jump through these hoops... This might be the first time I've tried back-compatibalizing a 3-4 year old project with the latest builds of tooling. Needless to say, it was a humbling experience for your local hackerman. I'd thought the WSL use at work had helped me out a lot (and I'm sure it helped me some), but this setup was
+definitely way too difficult. I started at around 2am. It's now 6:09am. 
 
-These were goals I'd previously set but failed to meet. I'm now here to buckle down and get to business. The next three months will be intense on self improvement in many facets of my life.
+1.1) Note to self: always check whether you're installing something locally or globally when using packages on mac... I just installed two versions of ruby, one via brew and one via ruby version manager (rvm), and they didn't see each other's builds. SO, rvm -v gave 2.6.5, and ruby -v gave 2.6.3, and the gems were all criss crossed looking for each other. It wasn't a fun time. I actually got halfway into installing GatsbyJS, which is node based, and fortunately for me I gave this Jekyll site
+another chance before going down that rabbit hole.
 
-1) Everyday, I'm going to work on something that improves myself. I've more or less been building healthy habits for the past couple of months, but they don't seem to stick. There must be something fundamentally wrong (such as a lack of internalization) with the way I'm approaching these goals. To be more specific about this point, I'm going to improve in three fields particularly:
+2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the *bolds* and **italics**. 
 
-1.1) Technically - work hard and smart at work, do some extra (personal?) stuff at home. Could be coding, or simply tackling stimulating problems in mathematics, physics, etc.
+3) I'm going to take a different direction with this blog going forward. I'd like to use it more as a journal so I can look back and reflect on my thoughts in the future. It's a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don't want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I'd
+mainly like to journal my progress towards endeavours in music, health, and career.
 
-To accomplish this, I'll have to sacrifice time wasted surfing the web, and also learn to take extended periods of time without a "break" (read: game of league/overwatch). It'll be tough, and I don't think it'll get any easier over the month. Nevertheless, I will power through and treat this as an exercise for my tenacity. I will not track the number of problems I solve, because that's about as superficial as you can get in terms of learning metrics.
+2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the *bolds* and **italics**. 
 
-1.2) Culturally - Read!!!! Everyday!!! There is no excuse to this. I've a terrible habit of leaving things half done. This is properly exemplified by the 30 or so books that I have sitting between 10 - 80% on my kindle. Yes, I've dropped books even though I was at 80%. For some reason, I don't find the enjoyment in seeing things to the end. Maybe it's because I'm a consumerist millenial that's always chasing the next quickest dopamine release, but I hate the fact that I do things half assedly. I'll be trying my best to finish things through to the end. This will allow me to appreciate things in their entirety.
-
-To be completely honest, the only thing I have to sacrfice here is time. (read: game of league/overwatch). Half an hour a day is NOT hard, and reading should not feel burdensome. You're learning, and you're intaking information. Helps with visualization, writing, and focus management. 
-
-I'll feel extremely sleepy about 3-4 pages in, but I recognize this and will *not* let myself stop after 3 short minutes. 
-
-1.3) Communicating - I did poorly in my recent interview with Facebook. While I solved two out of three problems presented to me, I'm fairly confident that it was the ones I DID solve that lost me the opportunity, as opposed to the one I did NOT solve. This is because I truly struggle to clearly articulate my thoughts. It's a big mess in my head and I fail to put anything coherent in front of my interviewer. I'll try to explain one complex topic a week to one of my friends who don't know about the topic. I think I'll have the most fun for this one, as it doubles for a chance to reconnect with some old friends, and try out some *Win Friends and Influence People* tactics from Dale Carnegie's one of a kind book. 
-
-As a side report of my previous weightloss goals:
-
-Current weight:175.8
-Target: 170.0
-Deadline: Nov 30.
-
-Lost more than expected, though I'm pretty sure the majority of my weight lost was waterweight. This, plus the fact that I started my log at the highest point I'd measured in a while (probably also due to water weight).
-
--endofpostsignaturehere
-
+3) I'm going to take a different direction with this blog going forward. I'd like to use it more as a journal so I can look back and reflect on my thoughts in the future. It's a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don't want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I'd
+mainly like to journal my progress towards endeavours in music, health, and career.
 
