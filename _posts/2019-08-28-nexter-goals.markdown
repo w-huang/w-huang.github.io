@@ -19,8 +19,3 @@ another chance before going down that rabbit hole.
 3) I'm going to take a different direction with this blog going forward. I'd like to use it more as a journal so I can look back and reflect on my thoughts in the future. It's a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don't want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I'd
 mainly like to journal my progress towards endeavours in music, health, and career.
 
-2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the *bolds* and **italics**. 
-
-3) I'm going to take a different direction with this blog going forward. I'd like to use it more as a journal so I can look back and reflect on my thoughts in the future. It's a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don't want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I'd
-mainly like to journal my progress towards endeavours in music, health, and career.
-

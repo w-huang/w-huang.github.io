@@ -5,8 +5,8 @@
     <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
     <link>http://brianmaierjr.github.com/long-haul/</link>
     <atom:link href="http://brianmaierjr.github.com/long-haul/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Dec 2019 06:17:48 -0800</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2019 06:17:48 -0800</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2019 06:19:59 -0800</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2019 06:19:59 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       
@@ -21,11 +21,6 @@ definitely way too difficult. I started at around 2am. It’s now 6:09am.&lt;/p&
 
 &lt;p&gt;1.1) Note to self: always check whether you’re installing something locally or globally when using packages on mac… I just installed two versions of ruby, one via brew and one via ruby version manager (rvm), and they didn’t see each other’s builds. SO, rvm -v gave 2.6.5, and ruby -v gave 2.6.3, and the gems were all criss crossed looking for each other. It wasn’t a fun time. I actually got halfway into installing GatsbyJS, which is node based, and fortunately for me I gave this Jekyll site
 another chance before going down that rabbit hole.&lt;/p&gt;
-
-&lt;p&gt;2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the &lt;em&gt;bolds&lt;/em&gt; and &lt;strong&gt;italics&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;3) I’m going to take a different direction with this blog going forward. I’d like to use it more as a journal so I can look back and reflect on my thoughts in the future. It’s a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don’t want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I’d
-mainly like to journal my progress towards endeavours in music, health, and career.&lt;/p&gt;
 
 &lt;p&gt;2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the &lt;em&gt;bolds&lt;/em&gt; and &lt;strong&gt;italics&lt;/strong&gt;.&lt;/p&gt;
 
