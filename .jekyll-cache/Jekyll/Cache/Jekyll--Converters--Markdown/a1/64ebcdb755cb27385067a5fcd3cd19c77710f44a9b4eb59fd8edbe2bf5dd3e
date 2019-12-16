@@ -1,6 +1,12 @@
-I"Q<div id="articles">
+I"•<div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">
+    
+      <li>
+      	<span class="date">16 Dec 2019</span>
+      	<h3><a href="/blog/markdown-reference-post/">Reference post for Markdown styles</a></h3>
+      	<p class="description">This post will be a reference for how to make links, lists, styles, etc. in markdown.I got lazy in the middle of writ...</p>
+      </li>
     
       <li>
       	<span class="date">16 Dec 2019</span>
