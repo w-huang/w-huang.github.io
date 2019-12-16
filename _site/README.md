@@ -1,3 +1,13 @@
+
+This is my blog. For reference in future:
+
+1. To edit this blog, change contents in the config/posts and run jekyll build.
+
+Below is the data from the template that I took
+=====
+
+
+
 ![preview Long Haul](/preview.jpg)
 
 Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
