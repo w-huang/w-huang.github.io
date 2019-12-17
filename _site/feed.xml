@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Let's fly off of Maslow's heirarchy</title>
+    <title>Confessions of a memer</title>
     <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Dec 2019 17:05:39 -0800</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2019 17:05:39 -0800</lastBuildDate>
+    <link>http://brianmaierjr.github.com/long-haul/</link>
+    <atom:link href="http://brianmaierjr.github.com/long-haul/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Dec 2019 23:22:55 -0800</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2019 23:22:55 -0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       
@@ -44,8 +44,8 @@
 </description>
         
         <pubDate>Mon, 16 Dec 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/quitting-games/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/quitting-games/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/quitting-games/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/quitting-games/</guid>
         
         
       </item>
@@ -65,8 +65,8 @@
 </description>
         
         <pubDate>Mon, 16 Dec 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/markdown-reference-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/markdown-reference-post/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/markdown-reference-post/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/markdown-reference-post/</guid>
         
         
       </item>
@@ -96,8 +96,8 @@ mainly like to journal my progress towards endeavours in music, health, and care
 </description>
         
         <pubDate>Mon, 16 Dec 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/nexter-goals/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/nexter-goals/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/nexter-goals/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/nexter-goals/</guid>
         
         
       </item>
@@ -145,8 +145,8 @@ Deadline: Nov 30.&lt;/p&gt;
 </description>
         
         <pubDate>Thu, 08 Sep 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/next-goals/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/next-goals/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/next-goals/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/next-goals/</guid>
         
         
       </item>
@@ -187,8 +187,8 @@ Time: By the start of December (3 months, 12 weeks. Approx 1.3lb/week)&lt;/p&gt;
 </description>
         
         <pubDate>Sun, 28 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/more-on-goalsetting/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/more-on-goalsetting/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/more-on-goalsetting/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/more-on-goalsetting/</guid>
         
         
       </item>
@@ -238,8 +238,8 @@ Time: By the start of December (3 months, 12 weeks. Approx 1.3lb/week)&lt;/p&gt;
 </description>
         
         <pubDate>Wed, 27 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/short-term-vs-long-term/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/short-term-vs-long-term/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/short-term-vs-long-term/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/short-term-vs-long-term/</guid>
         
         
       </item>
@@ -280,8 +280,8 @@ Time: By the start of December (3 months, 12 weeks. Approx 1.3lb/week)&lt;/p&gt;
 </description>
         
         <pubDate>Thu, 21 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/first-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/first-post/</guid>
+        <link>http://brianmaierjr.github.com/long-haul/blog/first-post/</link>
+        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/first-post/</guid>
         
         
       </item>
