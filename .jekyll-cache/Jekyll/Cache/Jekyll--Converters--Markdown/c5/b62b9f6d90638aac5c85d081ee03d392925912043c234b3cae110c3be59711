@@ -1,6 +1,12 @@
-I"•<div id="articles">
+I"Ä<div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">
+    
+      <li>
+      	<span class="date">16 Dec 2019</span>
+      	<h3><a href="/blog/quitting-games/">That's one cold turkey</a></h3>
+      	<p class="description">I think I need to start storyboarding these posts a little bit more. I came into the writing of this post with too li...</p>
+      </li>
     
       <li>
       	<span class="date">16 Dec 2019</span>

@@ -1,4 +1,4 @@
-I"�<p>To start off with, let me first say I am very excited for starting this blog up again. It’s been 3 years overdue and I think I’m in a good spot mentally to be doing this kind of thing again. It won’t be with the same kind of self jack-off righteousness and make-myself-sound-so-driven garbage I was writing before. I hope.</p>
+I"�<p>To start off with, let me first say I am very excited for starting this blog up again. It’s been 3 years overdue and I think I’m in a good spot mentally to be doing this kind of thing again. It won’t be with the same kind of self jack-off righteousness and make-myself-sound-so-driven garbage I was writing before. I hope.</p>
 
 <p>To begin things off, I’ll leave a note to my future self:</p>
 
@@ -7,11 +7,6 @@ definitely way too difficult. I started at around 2am. It’s now 6:09am.</p>
 
 <p>1.1) Note to self: always check whether you’re installing something locally or globally when using packages on mac… I just installed two versions of ruby, one via brew and one via ruby version manager (rvm), and they didn’t see each other’s builds. SO, rvm -v gave 2.6.5, and ruby -v gave 2.6.3, and the gems were all criss crossed looking for each other. It wasn’t a fun time. I actually got halfway into installing GatsbyJS, which is node based, and fortunately for me I gave this Jekyll site
 another chance before going down that rabbit hole.</p>
-
-<p>2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the <em>bolds</em> and <strong>italics</strong>.</p>
-
-<p>3) I’m going to take a different direction with this blog going forward. I’d like to use it more as a journal so I can look back and reflect on my thoughts in the future. It’s a difficult balance to find when journaling - you want to write enough so that you have enough to think about when looking back, but you don’t want to write too much either. The fluff really makes it hard to sift through your thoughts well. Maybe a twice per week cadence, or a once per week cadence would work well. I’d
-mainly like to journal my progress towards endeavours in music, health, and career.</p>
 
 <p>2) Visit some old posts and examples to get a primer on md, so you can format your posts well with the <em>bolds</em> and <strong>italics</strong>.</p>
 
